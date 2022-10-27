@@ -1,0 +1,13 @@
+{
+  "description": "JS toolkit",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "test": "mocha --recursive ./modules/**/*.test.js"
+  },
+  "dependencies": {
+    "@types/mocha": "^9.1.1",
+    "mocha": "^9.2.2"
+  },
+  "repository": {}
+}
