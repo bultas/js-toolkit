@@ -4,6 +4,16 @@ A set of handy Javascript functions
 
 ## Example
 
+### Debounce
+
+```
+pipe(
+  (v) => v + 1,
+  (v) => v * 2
+)(0)
+// 2
+```
+
 ### Multicond
 
 ```
