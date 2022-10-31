@@ -4,7 +4,7 @@ A set of handy Javascript functions
 
 ## Example
 
-### Debounce
+### Pipe
 
 ```
 pipe(
