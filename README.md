@@ -14,3 +14,11 @@ multiCond(
 // true
 
 ```
+
+### Debounce
+
+```
+const debouncedLog = ((e) => console.log(log), 300);
+
+debouncedLog("something to log")
+```
